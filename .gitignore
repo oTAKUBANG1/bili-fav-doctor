@@ -1,0 +1,11 @@
+# 数据与产物（含真实收藏夹内容，绝不进仓库）
+data/
+index.html
+report.png
+*.log
+*.err
+node_modules/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
